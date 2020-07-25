@@ -19,5 +19,7 @@ Tailwind is a CSS framework for implementing custom designs, and even a componen
 ## Resources
 
 Website: https://recoiljs.org
+
 Video: https://www.youtube.com/watch?v=_ISAA_Jt9kI
+
 UI Design: https://tailwindcomponents.com/component/todo-application
